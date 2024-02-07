@@ -1,4 +1,4 @@
-# UvA Coding the Humanities 2023
+# UvA Coding the Humanities 2024
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/bloemj/2023-coding-the-humanities/master)
 
@@ -27,7 +27,7 @@ Using Google Colab, you can open our course materials from Github directly and k
 
 ### Working with Jupyter Notebooks
 
-* Option 1 (recommended): Download [the repository contents](https://github.com/bloemj/2023-coding-the-humanities) and use Jupyter Notebook. See the [guide to setup your environment](setup.md) for more info.
+* Option 1 (recommended): Download [the repository contents](https://github.com/bloemj/2024-coding-the-humanities) and use Jupyter Notebook. See the [guide to setup your environment](setup.md) for more info.
 
 * Option 2 (advanced): work directly with git and conda. See the [guide to setup your environment](setup.md) for more info.
 
@@ -51,7 +51,7 @@ If you wish to write code without using Colab or a notebook, you will need an **
 ## Acknowledgements
 
 Various materials are re-purposed from:
-* Materials used in this course (Spring 2023) are a 'fork' of [last year's course materials](https://github.com/bloemj/2022-coding-the-humanities) taught by [Jelke Bloem](https://www.uva.nl/profiel/b/l/j.bloem/j.bloem.html) which was a 'fork' of [the 2021 course materials](https://github.com/uvacreate/2021-coding-the-humanities) taught by [Leon van Wissen](https://www.leonvanwissen.nl/) which was a 'fork' of [the 2020 course materials](https://github.com/Giovanni1085/UvA_CDH_2020) by [Giovanni Colavizza](https://www.giovannicolavizza.com/)
+* Materials used in this course (Spring 2024) are a 'fork' of [last year's course materials](https://github.com/bloemj/2023-coding-the-humanities) taught by [Jelke Bloem](https://www.uva.nl/profiel/b/l/j.bloem/j.bloem.html) which was a 'fork' of [the 2021 course materials](https://github.com/uvacreate/2021-coding-the-humanities) taught by [Leon van Wissen](https://www.leonvanwissen.nl/) which was a 'fork' of [the 2020 course materials](https://github.com/Giovanni1085/UvA_CDH_2020) by [Giovanni Colavizza](https://www.giovannicolavizza.com/)
 * [Applied Data Analysis](https://github.com/mromanello/ADA-DHOxSS), Oxford Digitial Humanities Summer School.
 * [Text Mining](https://github.com/Giovanni1085/AUC_TMCI_2019), Amsterdam University College.
 * [Python Programming for the Humanities](http://www.karsdorp.io/python-course).
